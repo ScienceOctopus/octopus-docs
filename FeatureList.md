@@ -58,7 +58,7 @@ Different publication types will need a different interface: Data in particular 
 
 Each will have fields for:
 -	Title
--	Authors’ ORCIDs (ability to add as many as required)
+-	Authors’ ORCIDs (ability to add as many as required) and options for author order: 'as listed', 'alphabetical' or 'randomise')
 -	Text
 -	Horizontal links
 -	Funding declaration (split into salary and research expenses)
