@@ -58,7 +58,7 @@ Different publication types will need a different interface: Data in particular 
 
 Each will have fields for:
 -	Title
--	Authors’ ORCIDs (ability to add as many as required) and options for author order: 'as listed', 'alphabetical' or 'randomise')
+-	Authors’ ORCIDs (ability to add as many as required) and options for author order: 'as listed', 'alphabetical' or 'randomise'). Option for a collaboration name (which will link to a page listing the collaboration members as well as the usual metrics etc.)
 -	Text
 -	Horizontal links
 -	Funding declaration (split into salary and research expenses)
