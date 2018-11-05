@@ -6,11 +6,11 @@ Octopus Features
 Visually arresting and clutter-free (I like sci-hub!). Not too corporate (so not the ‘out of a box’ website look), but professional enough to look trustworthy. 
 
 Two ways to find what you want:
--	Text search options:
-   - All text
-   - Text of all Problems/Hypotheses/Methods/Data/Analyses/Interpretations/Applications individually
-   - Text of titles only of above
--	Visual search: needs a representation of the information cloud (clustered by AI), zoomable, so that you can go in and in until you find what you want. [Question: what does the transition between the visual representation of chains of publications into viewing an individual publication look like? What does OneZoom do?)
+- Text search options:
+   * All text
+   * Text of all Problems/Hypotheses/Methods/Data/Analyses/Interpretations/Applications individually
+   * Text of titles only of above
+- Visual search: needs a representation of the information cloud (clustered by AI), zoomable, so that you can go in and in until you find what you want. [Question: what does the transition between the visual representation of chains of publications into viewing an individual publication look like? What does OneZoom do?)
 
 Language selection tool needed – will determine the language the site displays in and accepts as text inputs and should be on all pages of the site.
 
@@ -127,7 +127,7 @@ Reviews
 Simply Thumbs up and Thumbs down
 (can prompt that a good review should be original, constructive and use appropriate language!)
 
-	Along with these ‘star’ ratings are ‘red flag’ options. Users can ‘red flag’ a publication on one or more of:
+Along with these ‘star’ ratings are ‘red flag’ options. Users can ‘red flag’ a publication on one or more of:
 
 -	Potential plagiarism
 -	Potential copyright issues
