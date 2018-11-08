@@ -88,42 +88,42 @@ At the bottom there will need to be a ‘save’ and a ‘publish’ button. Wit
 
 Each publication type will need a different set of pre-set categories for rating. I suggest we try for (max) three for each. Probably each will be something like:
 
-Problems
-Clearly written and well defined
-Original
-Important
+Problems:
+Clearly written and well defined;
+Original;
+Important.
 
-Hypotheses
-Clearly written and well defined
-Original
-Scientifically valid
+Hypotheses:
+Clearly written and well defined;
+Original;
+Scientifically valid.
 
-Methods/Protocols
-Clearly written/Detailed
-Original
-Valid/appropriate test of hypothesis
+Methods/Protocols:
+Clearly written/Detailed;
+Original;
+Valid/appropriate test of hypothesis.
 
-Results/Data
-High quality and annotated
-Size of dataset
-Followed protocol
+Results/Data:
+High quality and annotated;
+Size of dataset;
+Followed protocol.
 
-Analysis
-Appropriate methodology
-Clearly written/Detailed
-Original
+Analysis:
+Appropriate methodology;
+Clearly written/Detailed;
+Original.
 
-Interpretation
-Consistent with observations
-Insightful/Original
-Clearly written
+Interpretation:
+Consistent with observations;
+Insightful/Original;
+Clearly written.
 
-Real-world application
-Clearly written/Detailed
-Original/Important
-Appropriate/Justified by evidence
+Real-world application:
+Clearly written/Detailed;
+Original/Important;
+Appropriate/Justified by evidence.
 
-Reviews
+Reviews:
 Simply Thumbs up and Thumbs down
 (can prompt that a good review should be original, constructive and use appropriate language!)
 
